@@ -263,5 +263,6 @@
 			"image": "requiem_h3_no_jacket_holster.jpg",
 			"contentFolders": ["c47/req_h3_holster"]
 		}
-	]
+	],
+	"updateCheck": "https://github.com/JojjeE/h3-blood-money-suit-ascended/releases/latest/download/updates.json"
 }
