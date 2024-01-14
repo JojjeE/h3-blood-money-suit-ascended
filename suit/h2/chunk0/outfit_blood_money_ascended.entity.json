@@ -469,7 +469,7 @@
 			"properties": {
 				"m_A": {
 					"type": "float32",
-					"value": 0.20000000298023224
+					"value": 0
 				},
 				"m_fT": {
 					"type": "float32",
@@ -746,71 +746,9 @@
 			"factory": "[assembly:/_pro/characters/assets/individuals/paris/philip/materials/male_reg_philip_01_tie_01.mi].pc_entitytype",
 			"blueprint": "[assembly:/_pro/characters/assets/individuals/paris/philip/materials/male_reg_philip_01_tie_01.mi].pc_entityblueprint",
 			"properties": {
-				"594659090": {
+				"Texture2DCompoundNormal_01_enab": {
 					"type": "bool",
 					"value": true
-				},
-				"Texture2D_03_enab": {
-					"type": "bool",
-					"value": true
-				},
-				"Texture2D_03": {
-					"type": "ZRuntimeResourceID",
-					"value": {
-						"resource": "[assembly:/_pro/characters/assets/individuals/paris/philip/textures/male_reg_philip_01_tie_01.texture?/specular_f.tex](ascolormap).pc_tex",
-						"flag": "5F"
-					}
-				},
-				"Texture2D_01_enab": {
-					"type": "bool",
-					"value": true
-				},
-				"Texture2D_01": {
-					"type": "ZRuntimeResourceID",
-					"value": {
-						"resource": "000624CB1FF5477F",
-						"flag": "5F"
-					}
-				},
-				"ConstantColorRGB_05_Value_op": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eReplace"
-				},
-				"ConstantColorRGB_05_Value": {
-					"type": "SColorRGB",
-					"value": "#942c3c"
-				},
-				"ConstantVector1D_05_Value_op": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eReplace"
-				},
-				"ConstantVector1D_04_Value_op": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eReplace"
-				},
-				"ConstantVector1D_04_Value": {
-					"type": "float32",
-					"value": 0.10000000149011612
-				},
-				"ConstantVector1D_05_Value": {
-					"type": "float32",
-					"value": 1
-				},
-				"ConstantVector1D_09_Value_op": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eReplace"
-				},
-				"ConstantVector1D_09_Value": {
-					"type": "float32",
-					"value": 0.10000000149011612
-				},
-				"ConstantVector1D_03_Value_op": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eReplace"
-				},
-				"ConstantVector1D_03_Value": {
-					"type": "float32",
-					"value": 30
 				},
 				"Texture2DCompoundNormal_01": {
 					"type": "ZRuntimeResourceID",
@@ -819,27 +757,25 @@
 						"flag": "5F"
 					}
 				},
-				"ConstantVector1D_07_Value_op": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eReplace"
+				"Texture2D_01": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "000624CB1FF5477F",
+						"flag": "5F"
+					}
 				},
-				"ConstantVector1D_07_Value": {
-					"type": "float32",
-					"value": 0
+				"Texture2D_01_enab": {
+					"type": "bool",
+					"value": true
 				},
-				"ConstantVector1D_08_Value_op": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eReplace"
+				"Texture2D_03": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "00F00F528D2A594B",
+						"flag": "5F"
+					}
 				},
-				"ConstantVector1D_08_Value": {
-					"type": "float32",
-					"value": 0.25
-				},
-				"ConstantVector1D_06_Value_op": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eReplace"
-				},
-				"Texture2DNormal_01_enab": {
+				"Texture2D_03_enab": {
 					"type": "bool",
 					"value": true
 				},
@@ -849,6 +785,98 @@
 						"resource": "[assembly:/_pro/characters/assets/individuals/paris/philip/textures/male_reg_philip_01_tie_01.texture?/normal_a.tex](asnormalmap).pc_tex",
 						"flag": "5F"
 					}
+				},
+				"Texture2DNormal_01_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"ConstantColorRGB_02_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eLeave"
+				},
+				"ConstantColorRGB_05_Value": {
+					"type": "SColorRGB",
+					"value": "#898989"
+				},
+				"ConstantColorRGB_05_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_01_Value": {
+					"type": "float32",
+					"value": 0.5
+				},
+				"ConstantVector1D_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_03_Value": {
+					"type": "float32",
+					"value": 3
+				},
+				"ConstantVector1D_03_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eLeave"
+				},
+				"ConstantVector1D_04_Value": {
+					"type": "float32",
+					"value": 0
+				},
+				"ConstantVector1D_04_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_05_Value": {
+					"type": "float32",
+					"value": 1.5
+				},
+				"ConstantVector1D_05_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eLeave"
+				},
+				"ConstantVector1D_06_Value": {
+					"type": "float32",
+					"value": 1
+				},
+				"ConstantVector1D_06_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 0
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eLeave"
+				},
+				"ConstantVector1D_08_Value": {
+					"type": "float32",
+					"value": 0.05000000074505806
+				},
+				"ConstantVector1D_08_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eLeave"
+				},
+				"ConstantVector1D_09_Value": {
+					"type": "float32",
+					"value": 0.5
+				},
+				"ConstantVector1D_09_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eLeave"
+				},
+				"ConstantVector1D_10_Value": {
+					"type": "float32",
+					"value": 0
+				},
+				"ConstantVector1D_10_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eLeave"
 				},
 				"Clients": {
 					"type": "TArray<SEntityTemplateReference>",
