@@ -6,4 +6,4 @@
 
 ---
 
-`Jojje.BloodMoneySuitAscended` v1.0.0, by Jojje. This README was automatically generated from the mod's manifest.
+`Jojje.BloodMoneySuitAscended` v1.1.0, by Jojje. This README was automatically generated from the mod's manifest.
