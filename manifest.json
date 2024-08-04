@@ -1,11 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"id": "Jojje.BloodMoneySuitAscended",
 	"name": "Blood Money Suit Ascended",
 	"description": "\"Ascend\" the Blood Money suit to Hitman 3 (or Hitman 2) suit meshes. This mod author personally recommends the H3 options. They have fancy material shaders for the jacket and pants.",
 	"authors": ["Jojje"],
-	"frameworkVersion": "2.33.7",
+	"frameworkVersion": "2.33.19",
 	"contentFolders": ["base"],
 	"options": [
 		{
