@@ -1,0 +1,10 @@
+{
+	"id": "009B5182C6638B75",
+	"type": "PRIM",
+	"references": [
+		"003CF5299BA4ECA2",
+		{ "resource": "008F130FD43C7016", "type": "normal" },
+		{ "resource": "00D81FA27D004454", "type": "normal" },
+		{ "resource": "00B8F2821B56E061", "type": "normal" }
+	]
+}

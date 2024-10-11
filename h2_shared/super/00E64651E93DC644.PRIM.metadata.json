@@ -1,0 +1,9 @@
+{
+	"id": "006FF71C1CF2353F",
+	"type": "PRIM",
+	"references": [
+		"00D1A35CC7C7F530",
+		{ "resource": "00ED11D04CD0F880", "type": "normal" },
+		{ "resource": "00872A74D5BCCF71", "type": "normal" }
+	]
+}
