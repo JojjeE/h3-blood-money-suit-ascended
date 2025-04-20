@@ -53,7 +53,13 @@
 			"name": "H3 - No jacket, holster",
 			"tooltip": "Install the H3 suit without jacket, and with shoulder holster.",
 			"image": "h3_no_jacket_holster.jpg",
-			"contentFolders": ["suit/h3_no_jacket_holster"]
+			"contentFolders": ["suit/h3_no_jacket_holster"],
+			"dependencies": [
+				{
+					"portFromChunk1": true,
+					"runtimeID": "000B7E245499F679"
+				}
+			]
 		},
 		{
 			"group": "Suit",
@@ -113,6 +119,10 @@
 				{
 					"portFromChunk1": true,
 					"runtimeID": "00D811DAA17D084E"
+				},
+				{
+					"portFromChunk1": true,
+					"runtimeID": "000B7E245499F679"
 				}
 			]
 		},
@@ -161,7 +171,13 @@
 			"name": "H3 - No jacket, holster",
 			"tooltip": "Install the H3 suit without jacket, and with shoulder holster.",
 			"image": "requiem_h3_no_jacket_holster.jpg",
-			"contentFolders": ["requiem/h3_no_jacket_holster"]
+			"contentFolders": ["requiem/h3_no_jacket_holster"],
+			"dependencies": [
+				{
+					"portFromChunk1": true,
+					"runtimeID": "000B7E245499F679"
+				}
+			]
 		},
 		{
 			"group": "Requiem Suit",
@@ -221,6 +237,10 @@
 				{
 					"portFromChunk1": true,
 					"runtimeID": "00D811DAA17D084E"
+				},
+				{
+					"portFromChunk1": true,
+					"runtimeID": "000B7E245499F679"
 				}
 			]
 		},
@@ -245,7 +265,13 @@
 			"name": "H3, holster",
 			"tooltip": "Install the Blood Money Suit Ascended without jacket, and with shoulder holster to replace the Sniper Challenge suit.",
 			"image": "h3_no_jacket_holster.jpg",
-			"contentFolders": ["c47/h3_holster"]
+			"contentFolders": ["c47/h3_holster"],
+			"dependencies": [
+				{
+					"portFromChunk1": true,
+					"runtimeID": "000B7E245499F679"
+				}
+			]
 		},
 		{
 			"group": "Sniper Challenge",
@@ -261,7 +287,13 @@
 			"name": "H3, Requiem, holster",
 			"tooltip": "Install the Blood Money Suit Ascended, Requiem edition, without jacket, and with shoulder holster to replace the Sniper Challenge suit.",
 			"image": "requiem_h3_no_jacket_holster.jpg",
-			"contentFolders": ["c47/req_h3_holster"]
+			"contentFolders": ["c47/req_h3_holster"],
+			"dependencies": [
+				{
+					"portFromChunk1": true,
+					"runtimeID": "000B7E245499F679"
+				}
+			]
 		}
 	],
 	"updateCheck": "https://github.com/JojjeE/h3-blood-money-suit-ascended/releases/latest/download/updates.json"
