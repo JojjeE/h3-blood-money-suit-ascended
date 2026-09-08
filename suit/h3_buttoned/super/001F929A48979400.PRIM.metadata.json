@@ -1,0 +1,15 @@
+{
+	"id": "001F929A48979400",
+	"type": "PRIM",
+	"references": [
+		"[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/jackets/geometry/male_reg_jackets.wl2?/jacket_suit_closed.weightedprim](bodypart).pc_bonerig",
+		{
+			"resource": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_signaturesuit/material/agent47_signaturesuit_jacket.mi].pc_mi",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/characters/assets/_apparel/accessories/buttons/materials/buttons_01.mi].pc_mi",
+			"type": "normal"
+		}
+	]
+}
