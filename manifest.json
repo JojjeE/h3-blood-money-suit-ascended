@@ -5,7 +5,7 @@
 	"description": "\"Ascend\" the Blood Money suit to Hitman 3 (or Hitman 2) suit meshes. This mod author personally recommends the H3 options. They have fancy material shaders for the jacket and pants.",
 	"authors": ["Jojje"],
 	"version": "1.1.2",
-	"frameworkVersion": "3.0.0",
+	"frameworkVersion": "3.0.0-rc.4",
 	"url": "https://github.com/JojjeE/h3-blood-money-suit-ascended",
 	"conditions": { "supportedGames": ["h3"] },
 	"data": { "contentFolders": ["base"] },
